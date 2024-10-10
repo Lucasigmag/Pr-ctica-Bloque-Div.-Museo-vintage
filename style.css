@@ -1,0 +1,28 @@
+h1.header{
+    background-color: beige;
+    text-align: center;
+}
+
+nav.center{
+    background-color: lime;
+    text-align: center;
+}
+
+h3#negrita{
+    font-weight: bold;
+}
+
+div.orange{
+    background-color: orange;
+}
+
+div.naranja{
+    background-color: orange;
+}
+div.sueño{
+    background-color: blue;
+    text-align: center;
+}
+span.yellow{
+    background-color: yellow;
+}
